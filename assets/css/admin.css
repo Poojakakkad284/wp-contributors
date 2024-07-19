@@ -1,0 +1,8 @@
+#wp_contributors_meta_box ul {
+    list-style: none;
+}
+#wp_contributors_meta_box ul li {
+    display: inline-block;
+    margin-right: 10px;
+    width: 20%;
+}
